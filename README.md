@@ -41,7 +41,7 @@ Fedora build tools:
 Ubuntu build tools:
 
     sudo apt install -y build-essential gcc-aarch64-linux-gnu \
-                        git iasl lzma-dev mtools perl python \
+                        git iasl lzma-dev mtools perl python-is-python3 \
                         subversion uuid-dev
 
 How it works
